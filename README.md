@@ -1,2 +1,3 @@
 # assignment-2
 Online food delivery project analysis
+Online food delivery platforms generate massive volumes of transactional and behavioral data related to customers, restaurants, orders, payments, and deliveries.The goal of this project is to analyze online food delivery data to Understand customer ordering behavior,Identify operational inefficiencies in delivery,Evaluate restaurant performance,Track revenue, profit, and cancellations,Provide data-driven insights for business decision-making.The project emphasizes real-world noisy data, requiring thorough EDA and preprocessing before analytics and visualization.
